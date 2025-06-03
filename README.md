@@ -73,6 +73,7 @@ O simplemente bórrala desde el explorador de archivos.
 
 ## 📐 Arquitectura
 
+```
              HTTP POST
    ┌───────────────┐             ┌────────────────────┐
    │               │  ────────►  │                    │
@@ -105,6 +106,7 @@ O simplemente bórrala desde el explorador de archivos.
            ▲                             ▲
            │                             │
            └────── Visualiza resultado ──┘
+```
 
 ---
 
